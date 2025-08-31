@@ -30,16 +30,26 @@ A fully responsive **Amazon e-commerce clone** built with **React.js** and **Nod
 ## Project Structure
 
 amazon-clone/
+
 │
 ├── public/ # Public assets
+
 ├── src/
+
 │ ├── components/ # React components
+
 │ ├── assets/ # Images and logos
+
 │ ├── App.js # Main React component
+
 │ └── index.js # Entry point
+
 ├── functions/ # Backend functions (Stripe integration)
+
 ├── .env # Environment variables (ignored in git)
+
 ├── package.json # Project dependencies
+
 └── README.md
 
 
