@@ -1,0 +1,38 @@
+.footer {
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    padding: 50px 20px;
+
+}
+
+.amazonlogohere {
+    margin-top: 40px;
+}
+
+.amazonimagefooter {
+    width: 150px;
+    height: auto;
+}
+
+/* Footer Countaint */
+.footerContaint {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.footerTitle {
+    font-weight: 600;
+}
+
+.contentFooterSubTitleDiv {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.containtFooterSubTitleCount {
+    margin-bottom: 10px;
+}

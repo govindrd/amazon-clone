@@ -1,0 +1,34 @@
+.secondHeader {
+    height: 39px;
+    background-color: #232f3e;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 0 0 0 11px;
+
+}
+
+.navbarBannerOptionLeft {
+    display: flex;
+
+}
+
+.optionNavbarBanner {
+    display: flex;
+    padding: 6px 7px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    cursor: pointer;
+    &:hover {
+        border-radius: 3px;
+        border: 1px solid white;
+    }
+}
+
+.allOptionNavbarBanner {
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 4px;
+}
