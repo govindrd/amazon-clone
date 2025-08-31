@@ -56,17 +56,19 @@ amazon-clone/
 
 ## Project Setup
 
-### 1. Clone the repository
+# 1. Clone the repository
 ```bash
 git clone https://github.com/govindrd/amazon-clone.git
 cd amazon-clone
 
 ### 🛒 Amazon Clone
 
-![Amazon Clone Screenshot]
+[Amazon Clone Screenshot]
 *Screenshot of the Amazon Clone homepage*
 
 A fully responsive **Amazon e-commerce clone** built with **React.js** and **Node.js**, featuring product browsing, shopping cart, and Stripe-based checkout. Perfect for learning full-stack web development and building real-world applications.
+
+
 <img width="1886" height="963" alt="image" src="https://github.com/user-attachments/assets/d454f53a-3613-4709-af84-03d9aced58f0" />
 <img width="1879" height="977" alt="image" src="https://github.com/user-attachments/assets/8f8bc755-03b1-43a4-ba76-f37f2b71ca61" />
 <img width="1867" height="957" alt="image" src="https://github.com/user-attachments/assets/d6c6f8a1-b4ee-4d5c-bce7-23ffe63818f0" />
