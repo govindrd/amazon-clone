@@ -78,5 +78,16 @@ A fully responsive **Amazon e-commerce clone** built with **React.js** and **Nod
 
 
 
+<img width="978" height="665" alt="image" src="https://github.com/user-attachments/assets/54edc839-1083-4d19-9a6c-4c7be759101c" />
+
+<img width="1540" height="732" alt="image" src="https://github.com/user-attachments/assets/189f8c2d-800d-4c92-8524-31ffd4d4c7e4" />
+
+<img width="1404" height="837" alt="image" src="https://github.com/user-attachments/assets/f5ded2ef-374b-438a-a1e0-0c1a01f8ce1e" />
+
+
+
+
+
+
 
 
