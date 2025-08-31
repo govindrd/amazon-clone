@@ -1,11 +1,13 @@
+require('dotenv').config(); 
 const functions = require("firebase-functions");   // correct
 const { setGlobalOptions } = require("firebase-functions");
 const cors = require("cors");
 const express = require("express");
-const stripe = require("stripe")(
-  "sk_test_51RwzpjC1X0xfBVf8ffsxjdAkCWK3paxZdPtqVMYmXQjshM9zwRTBy8hAHRfgBHIt12y9C2UExNKxB9qxRjWCthvo005UaOstoQ");
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
-// - App config
+
+
+  // - App config
 const app = express();
 
 // - Middleware
