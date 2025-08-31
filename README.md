@@ -20,7 +20,7 @@ A fully responsive **Amazon e-commerce clone** built with **React.js** and **Nod
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript, React Hooks
 - **Backend:** Node.js, Express.js (optional backend routes for Stripe)
-- **Database:** (Optional) Firebase / MongoDB
+- **Database:**  Firebase Firestore
 - **Payment Gateway:** Stripe (Test API)
 - **Version Control:** Git & GitHub
 - **Environment Management:** `.env` for API keys
