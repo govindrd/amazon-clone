@@ -57,7 +57,6 @@ amazon-clone/
 ## Project Setup
 
 # 1. Clone the repository
-```bash
 git clone https://github.com/govindrd/amazon-clone.git
 cd amazon-clone
 
